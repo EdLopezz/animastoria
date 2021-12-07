@@ -1,0 +1,90 @@
+body{
+    background-color:#ADE1E5 ;
+}
+header{
+    background-color:#F6F740 ;
+    height: 100px;
+}
+.logo{
+    margin-bottom: 25px;
+    box-sizing: border-box;
+    padding-top:20px;
+ 
+}
+.logo h1 {
+        text-align: center;
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 5px;
+}
+.logo h2 {
+    text-align: center;
+}
+nav{
+    background-color:#e6e63b ;
+    width: 100%;
+}
+.menu{
+    position: relative;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    position: relative;
+    border: 2px solid #ADE1E5 ;
+    background-color: #231F20;
+    padding: 3px;
+}
+.menu a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+}
+main{
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top: 5%;
+}
+.conteudo{
+    position:relative;
+}
+#rodape{
+    display: block;
+    position:absolute;
+    background-color:#231F20 ;
+    width: 100%;
+    text-decoration: none;
+    position: absolute;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+.quemsomos {
+    display: inline-block;
+    position: relative;
+    width: 50%; 
+    padding-left:25px ;   
+}
+.quemh2 {
+    color: #F6F740 ;
+    font-size: 27px;
+    margin: 0 0 15px 15px;
+}
+.quemsomos li {
+    margin: 10px 0 0 15px;
+
+}
+.redes{
+    display: inline-block;
+    position: relative;
+}
+.redes li {
+    margin: 10px 0 0 15px;
+}
+.item a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
